@@ -1,3 +1,3 @@
 # CursoPython
  
-Repositório de exercícios do curso em vídeo de Python 3
+Repositório de exercícios do curso em vídeo de Python 3, ministrado pelo professor Guanabara.
