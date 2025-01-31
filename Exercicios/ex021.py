@@ -1,4 +1,4 @@
-import pygame
+import pygame # Aqui tem que instalar o pygame no seu VSCode ou pycharm
 
 # Inicializa todos os módulos do pygame
 pygame.init()
